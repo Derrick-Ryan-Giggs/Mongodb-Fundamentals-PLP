@@ -99,7 +99,7 @@ If you want to interact with MongoDB from a **Node.js** app:
    run().catch(console.dir);
    ```
 
-## 🎯 Conclusion
+
 You now have a working MongoDB setup using **MongoDB Compass**! 🚀
 - Use Compass for easy **CRUD operations**.
 - Utilize **filtering, aggregation, and indexing** for data management.
