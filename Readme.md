@@ -105,5 +105,5 @@ You now have a working MongoDB setup using **MongoDB Compass**! 🚀
 - Utilize **filtering, aggregation, and indexing** for data management.
 - Connect MongoDB to your applications for advanced use cases.
 
-Happy coding! 🎉
+
 
